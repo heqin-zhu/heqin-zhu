@@ -1,10 +1,10 @@
 ## Hi! I'm Heqin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🔭 I'm currently working on AI biology, with focus on fundamental challenges in RNA modeling and molecular design, including:
+- 🔭 I'm currently working on AI biology, aiming at understanding biomolecular structures and designing functional molecules, including:
   - Structure and function prediction.
   - Multimodal biological foundation model
-  - Unified molecular design
+  - Molecular design and drug discovery
 - 🌱 I'm currently learning about generative models and molecule design.
-- 💬 I am always welcoming discussions and collaborative opportunities, please feel free to contact me via email. :)
+- 💬 I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
 🌐 [Website](http://heqin-zhu.github.io/) · 📰 [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ)
 
