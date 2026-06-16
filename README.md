@@ -14,8 +14,8 @@
 ## Featured Publications
 
 ### RNA Foundation Model
-- [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
+- [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731). [[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
 
 ### RNA Structure Prediction
-- [NC-Bench and NCfold for RNA non-canonical base pair prediction](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746)[![](https://img.shields.io/github/stars/heqin-zhu/NCBench.svg?label=Stars&style=social)](https://github.com/heqin-zhu/NCBench)[[code](https://github.com/heqin-zhu/NCBench)][[page](https://heqin-zhu.github.io/NCBench/)][[poster](https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf)]
-- [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf)][[poster2](https://heqin-zhu.github.io/files/poster/poster_BPfold_2.jpg)]
+- [NC-Bench and NCfold for RNA non-canonical base pair prediction](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746). [[code](https://github.com/heqin-zhu/NCBench)][[page](https://heqin-zhu.github.io/NCBench/)][[poster](https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf)]
+- [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1). [[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf)][[poster2](https://heqin-zhu.github.io/files/poster/poster_BPfold_2.jpg)]
