@@ -13,6 +13,9 @@
 
 ## Featured Publications
 
+### Molecular Design
+- [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087). [[code](https://github.com/OTeam-AI4S/NACraft)]
+
 ### RNA Foundation Model
 - [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731). [[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
 
